@@ -1,0 +1,35 @@
+{
+    "name": "labelize",
+    "version": "1.0.0",
+    "title": "labelize"
+    "author": {
+        "name": "Evgeni Tsarovski",
+        "url": "http://www.etcoding.com"
+    },
+    "licenses": [
+        {
+            "type": "BSD",
+            "url": "http://www.opensource.org/licenses/BSD-3-Clause"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">1.6"
+    },
+    "description": "jQuery plugin that turns an input element into a non-input one (e.g. div, span), and turns it back into input on click.",
+    "keywords": [
+        "labelize",
+		"editable",
+        "editable div span"
+    ],
+	"demo": "http://www.etcoding.com/page/jQueryeditable-and-jQuerylabelize-plugins.aspx",
+    "homepage": "http://www.etcoding.com/page/jQueryeditable-and-jQuerylabelize-plugins.aspx",
+    "maintainers": [
+        {
+            "name": "Evgeni Tsarovski",
+            "url": "http://www.etcoding.com"
+        }
+    ],
+    "files": [
+       "jquery.labelize.1.0.0.js"
+    ]
+}
