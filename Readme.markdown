@@ -25,4 +25,4 @@ All parameters are optional. Shown are default values.
 	event: one of the jQuery's event names that will trigger the swap. dblclick and click make most sense.  
 
 
-To see it in action go to the demo page: http://www.etcoding.com/page/jQueryeditable-and-jQuerylabelize-plugins.aspx
+To see it in action go to the demo page: http://etcoding.com/docs/labelize.html
