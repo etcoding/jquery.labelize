@@ -66,7 +66,7 @@
             input.val(val);
             labelElement.hide();
             input.show();
-            input.focus();
+            input.focus().select();
         }
 
         function restoreLabel(inputElement, cancelChanges) {
